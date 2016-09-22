@@ -1,0 +1,10 @@
+p {font-size: 20px;}
+h1 {font-weight: bold;}
+img {max-width: 500px;}
+img:hover {filter:brightness(150%);}
+a:link {color: black;
+		text-decoration: none;}
+	a:visited {color: purple;}
+	a:hover {color: green;}
+	.price {font-size: 27px;
+		color: red;}
